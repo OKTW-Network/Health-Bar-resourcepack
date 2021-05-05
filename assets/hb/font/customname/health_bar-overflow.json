@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hb:customname/health_bar-overflow.png",
+      "height": 8,
+      "ascent": 6,
+      "chars": [
+        "\u002B"
+      ]
+    }
+  ]
+}

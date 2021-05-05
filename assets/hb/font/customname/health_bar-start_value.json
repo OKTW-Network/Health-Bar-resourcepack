@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hb:customname/health_bar-start_value.png",
+      "height": -8,
+      "ascent": -10,
+      "chars": [
+        "\u0031\u0032\u0033\u0034\u0035\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hb:customname/health_bar-start_value.png",
+      "height": -8,
+      "ascent": -10,
+      "chars": [
+        "\u0000\u0000\u0000\u0000\u0000\u002E"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hb:customname/health_bar-start_foreground.png",
+      "height": -8,
+      "ascent": -10,
+      "chars": [
+        "\u0030\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hb:customname/health_bar-start_foreground.png",
+      "height": -8,
+      "ascent": -10,
+      "chars": [
+        "\u0000\u002E"
+      ]
+    }
+  ]
+}

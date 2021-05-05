@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hb:customname/health_bar-foreground.png",
+      "height": 8,
+      "ascent": 6,
+      "chars": [
+        "\u0031\u0032\u0033\u0034\u0035"
+      ]
+    }
+  ]
+}
